@@ -11,7 +11,6 @@ You start with a list of items you would like loaded onto a truck, a packing she
 
 ![image](https://github.com/user-attachments/assets/3f024789-739a-47bb-ab0d-5cce4742cdc1)
 
-![image](https://github.com/user-attachments/assets/50280f1a-6d6a-4e65-b65a-2ce5b94219b7)
 
 It even tells you if certain items won't fit on any truck.
 
