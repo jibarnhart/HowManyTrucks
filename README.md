@@ -22,3 +22,6 @@ Our program is using advanced optimization techniques developed by researchers t
 
 In order to run this you need a module that was modified for the shipper's use case, found here: https://github.com/jibarnhart/3dbinpacking. The module it was branched from was a Python implementation of the algorithm described in the paper "Optimizing Three-Dimensional Bin Packing Through Simulation", by Dube and Kanavathy. The main issue with the model (and algorithm), in the shipper's use case, is that is assumes you can tilt items on their side and rotate them whatever way you want to. For now, we have removed this and only allow turning items 90 degrees.
 
+## Shortcomings
+
+Anyone in freight can tell you that the total weight of the trailer is not the only thing that matters. The weights over the front and rear axle are important as well. This program does not yet take those weights into account, but I plan on implementing those in the future.
