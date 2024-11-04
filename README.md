@@ -5,13 +5,6 @@
 How Many Trucks is a project to help shippers plan out their freight operations. By answering a few simple questions, and uploading a list of cargo dimensions, our program can optimize the number of trucks needed to ship the freight. It will even show the optimized way to load the freight.
 You start with a list of items you would like loaded onto a truck, a packing sheet, and what type of equipment you want it loaded on to (Van or Flatbed). From there it puts each item through the algorithm and determines what truck the item will go on, and where it will go.
 
-![image](https://github.com/user-attachments/assets/5116b559-1ec2-4e02-8cdd-b68dc4350232)
-
-![image](https://github.com/user-attachments/assets/af633a3c-2708-4f26-94ae-462e4a3e21d3)
-
-![image](https://github.com/user-attachments/assets/3f024789-739a-47bb-ab0d-5cce4742cdc1)
-
-
 It even tells you if certain items won't fit on any truck.
 
 ## How does it do this?
