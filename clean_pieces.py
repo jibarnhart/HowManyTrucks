@@ -21,7 +21,7 @@ def cleaning(pieces, needed_equipment):
 
             if piece['width'] > 102:
                 piece['over_width'] = True
-                piece['modified_width'] = 102
+                piece['modified_width'] = piece['width']
             else:
                 piece['over_width'] = False
                 piece['modified_width'] = piece['width']
